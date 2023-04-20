@@ -1,8 +1,8 @@
 print("Variable Swapper (using 2 variables)")
 
 # Get input from user
-x = input("Enter the value of x: ")
-y = input("Enter the value of y: ")
+x = float(input("Enter the value of x: "))
+y = float(input("Enter the value of y: "))
 
 # Print the original values
 print(f"The original values are: x = {x}, y = {y}")
